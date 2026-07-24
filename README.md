@@ -17,7 +17,7 @@ Mathematics • Machine Learning • Algorithms • Quantitative Research
 
 - 🧠 Passionate about mathematics, algorithms, and intelligent systems
 - 🏆 Math olympiad background and lifelong problem solver
-- 💻 Exploring AI, quantitative research, and computational methods
+- 💻 Exploring AI, computational methods and quantitative research
 
 ---
 
