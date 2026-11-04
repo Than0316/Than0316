@@ -14,7 +14,7 @@ Second-year AI undergraduate at PSL University (Paris). I'm interested in reliab
 
 ## Open source
 
-- **[vLLM #64937](https://github.com/vllm-project/vllm/pull/64937)**: fixed time-to-first-token measurement in `vllm bench serve` for servers that stream reasoning as `reasoning_content` (e.g. SGLang). Reasoning tokens were skipped, so TTFT read about 840 ms instead of about 200 ms, and reasoning-only responses were counted as failures. Approved by a vLLM maintainer.
+- **[vLLM #64937](https://github.com/vllm-project/vllm/pull/64937)**: fixed time-to-first-token measurement in `vllm bench serve` for servers that stream reasoning as `reasoning_content` (e.g. SGLang). Reasoning tokens were skipped, so TTFT read about 840 ms instead of about 200 ms, and reasoning-only responses were counted as failures. Merged.
 
 ## Hackathon
 
