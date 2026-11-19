@@ -1,6 +1,6 @@
 I'm currently a second-year AI undergraduate at PSL University.
 
-Lately I've been reading and fixing code in LLM serving, mostly around how agent conversations are stored and replayed.
+Lately I've been reading code in LLM serving, mostly around how agent conversations are stored and replayed.
 
 **Open source**
 
